@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objetivos do Ano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Objetivos do Ano <span>_</span></h2>
+        <div class="botoes">
+            <button class="botao">Aprender HTML</button>
+            <button class="botao">Estudar CSS</button>
+            <button class="botao">Praticar JavaScript</button>
+            <button class="botao">Criar um site pessoal</button>
+        </div>
+    </section>
+</body>
+</html
