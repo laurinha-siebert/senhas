@@ -1,3 +1,4 @@
+.checkbox{} 
 .barra {
   background-color: var(--fundo-senha);
 }.barra{
@@ -7,18 +8,12 @@
 }.fraca{
     height: 30px;
     width: 25%;
-    background-color: #E71B32; 
-}.fraca{
-    height: 30px;
-    width: 25%;
-    background-color: #1be770;
-    position: relative;
-}.fraca{
-    height: 30px;
-    width: 25%;
     background-color: #E71B32;
     position: relative;
     bottom: 30px;
+}.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
 }.media{
     height: 30px;
     width: 50%;
